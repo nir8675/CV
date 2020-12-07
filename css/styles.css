@@ -1,0 +1,158 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #d0e8f2
+}
+
+a{
+  color: #11999E;
+}
+
+p{
+  color: black;
+
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: aquamarine;
+  color: #11999E;
+
+}
+
+hr{
+  border-style: solid;
+  border-color: seagreen;
+
+}
+.top-container {
+  background-color:#EAF6F6;
+  position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.middle-container {
+
+}
+
+.hello{
+  color: #40514E;
+}
+
+.hr-hello{
+  border-color: #EAF6F6;
+}
+
+.my-skills{
+  color: #66BFBF;
+}
+
+
+.bottom-container {
+background: #66BFBF;
+margin-top: 100px;
+padding: 100px;
+}
+
+.footer-link {
+  color: #11999E;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+
+
+.bottom-cloud {
+position: absolute;
+left: 300px;
+bottom: 300px;
+
+}
+
+
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+  line-height: 2;
+
+}
+.soccer{
+  color: #11999E;
+}
+
+
+.image-skill{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+}
+
+.image-Soccer{
+  width: 25%;
+  float: right;
+  margin-left:30px;
+
+}
+
+.contact-me{
+
+
+}
+
+.contact-line {
+  line-height: 4;
+}
+
+
+.Nir {
+  color: #EAF6F6;
+}
+
+
+.button {
+
+
+margin-top: 50px;
+     border-radius: 10px;
+     color: #FFFFFF;
+     font-family: Open Sans;
+     font-size: 20px;
+     font-weight: 20;
+     padding: 20px;
+     background-color: #66BFBF;
+     box-shadow: 1px 1px 20px 0 #000000;
+     text-shadow: 1px 1px 20px #FFFFFF;
+     border: solid #337FED 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
